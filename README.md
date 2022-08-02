@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Jorge!
+## Hi there 👋
 
 I'm a FullStack Developer living in Tokyo, Japan 🇯🇵. 
 
