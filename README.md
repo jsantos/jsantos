@@ -16,5 +16,4 @@ I specialize mostly in Ruby on Rails 💎 but through the years I've worked with
 <br>🧠 PostgresSQL, MySQL, Redis, MongoDB
 <br>🤖 AWS, Heroku
 
-### 📈 Random Stats
 ![jsantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsantos&count_private=true&show_icons=true&theme=city_lights&hide_border=true)
