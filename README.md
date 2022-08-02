@@ -17,4 +17,4 @@ I specialize mostly in Ruby on Rails 💎 but through the years I've worked with
 <br>🤖 AWS, Heroku
 
 ### Public Stats
-![jsantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsantos&show_icons=true&theme=city_lights&hide_border=true)
+![jsantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsantos&count_private=true&show_icons=true&theme=city_lights&hide_border=true)
