@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there 
 
 I'm a FullStack Developer living in Tokyo, Japan 🇯🇵. 
 
@@ -9,12 +9,12 @@ I specialize mostly in Ruby on Rails 💎 but through the years I've worked with
 <br>⚡ Fun fact: When I'm not coding I'm most likely doing a board sport 🛹🏂🏄‍♂️
 <br>😄 Pronouns: He/Him
 
-### What I build on
+### 🛠 What I build on
 👨‍💻 Ruby on Rails
 <br>✨ StimulusJS, StimulusReflex, Hotwire
 <br>🗺 CSS, SASS, Bootstrap
 <br>🧠 PostgresSQL, MySQL, Redis, MongoDB
 <br>🤖 AWS, Heroku
 
-### Public Stats
+### 📈 Random Stats
 ![jsantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsantos&count_private=true&show_icons=true&theme=city_lights&hide_border=true)
